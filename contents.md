@@ -21,7 +21,6 @@
 - [操作系统课程简单实验部分的源代码和参考答案](https://github.com/chyyuu/mooc_os_lab)
 - [操作系统课程简单实验部分的软件环境与工具](http://pan.baidu.com/s/1pJ4XTGZ)
 
-
 ## 操作系统课常见问题在线收集
 - [操作系统课程问题集](http://xuyongjiande.gitbooks.io/os-qa/)
 
