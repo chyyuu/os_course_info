@@ -15,17 +15,17 @@
 
 ## 操作系统课程基本原理部分的视频
 - [课程视频，作业，论坛主页]( http://www.topu.com/mooc/4100)
-- [操作系统课程基本原理部分的ppt资料](http://pan.baidu.com/s/1bncWxyv)
+- [操作系统课程基本原理部分的ppt资料](http://pan.baidu.com/s/1jGoUciM)
 
 # 操作系统课程简单实验部分（扩展学习内容）
 
 ## 操作系统实验指导书
 - 《清华大学计算机系列教材:操作系统实验指导》　清华大学出版社　2013
 - [操作系统课程简单实验部分视频](http://www.topu.com/mooc/4100)
-- [操作系统课程简单实验部分的ppt和guide资料 PDF格式](http://pan.baidu.com/s/1i3vbdXV)
+- [操作系统课程简单实验部分的ppt和guide资料 PDF格式](http://pan.baidu.com/s/1sjuL3Ed)
 - [操作系统课程简单实验部分guide资料 网页格式(正在撰写，持续更新)](http://http://objectkuan.gitbooks.io/ucore-docs/)
 - [操作系统课程简单实验部分的源代码和参考答案](https://github.com/chyyuu/mooc_os_lab)
-- [操作系统课程简单实验部分的软件环境与工具](http://pan.baidu.com/s/1pJ4XTGZ)
+- [操作系统课程简单实验部分的软件环境与工具](http://pan.baidu.com/s/1gdePM6J)
 
 # 操作系统课常见问题在线收集
 - [操作系统课程问题集](http://xuyongjiande.gitbooks.io/os-qa/)
