@@ -36,6 +36,9 @@
 # 操作系统自编教材
 - ["操作系统简单实现与基本原理 — 基于ucore"(正在撰写，持续更新，变动较大)](http://chyyuu.gitbooks.io/ucorebook/)
 
+# 课程所有信息的网盘备份
+－[操作系统课程信息备份（感谢“飞得更高49”）](http://pan.baidu.com/s/1sjlrZSp)　
+
 # 操作系统课联系方式
 - QQ群 181873534
 - 陈渝老师email： yuchen AT tsinghua.edu.cn
