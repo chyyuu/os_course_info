@@ -15,7 +15,8 @@
 - 《清华大学计算机系列教材:操作系统实验指导》　清华大学出版社　2013
 - [操作系统课程简单实验部分视频](http://www.topu.com/mooc/4100)
 - [操作系统课程简单实验部分的ppt和guide资料 PDF格式](http://pan.baidu.com/s/1i3vbdXV)
-- [操作系统课程简单实验部分guide资料 网页格式(正在撰写，持续更新)](http://http://objectkuan.gitbooks.io/ucore-docs/)
+- [操作系统课程简单实验部分guide资料 in gitbook(持续更新)](http://objectkuan.gitbooks.io/ucore-docs/)
+- [操作系统课程简单实验部分guide资料 in github(持续更新)](http://hejq.me/ucore_docs/)
 - [操作系统课程简单实验部分的源代码和参考答案](https://github.com/chyyuu/mooc_os_lab)
 - [操作系统课程简单实验部分的软件环境与工具](http://pan.baidu.com/s/1pJ4XTGZ)
 
