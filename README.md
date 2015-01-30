@@ -29,8 +29,12 @@
 - [操作系统课程简单实验部分的ppt和guide资料 PDF格式](http://pan.baidu.com/s/1i3vbdXV)
 - [操作系统课程简单实验部分guide资料 in gitbook(持续更新)](http://objectkuan.gitbooks.io/ucore-docs/)
 - [操作系统课程简单实验部分guide资料 in github(持续更新)](http://hejq.me/ucore_docs/)
-- [操作系统课程简单实验部分的源代码和参考答案](https://github.com/chyyuu/mooc_os_lab)
+- [操作系统课程简单实验部分的源代码和参考答案](https://github.com/chyyuu/mucore_lab)
 - [操作系统课程简单实验部分的软件环境与工具](http://pan.baidu.com/s/1gdePM6J)
+
+## 从零开始构建ucore OS操作系统（了解OS如何一步一步完成，以及与OS原理的对应关系）
+ -[源码](https://github.com/chyyuu/ucorebook_code)
+　-[讲义](https://github.com/chyyuu/ucorebook)
 
 # 操作系统课常见问题在线收集
 - [操作系统课程问题集](http://xuyongjiande.gitbooks.io/os-qa/)
