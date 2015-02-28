@@ -12,7 +12,7 @@
 ### 在线视频
  - [OS原理+实验在线视频-学堂在线-2015春季](https://www.xuetangx.com/courses/TsinghuaX/30240243X/2015_T1/about)
  - [OS原理+部分实验在线视频-TOPU-2014秋季](http://www.topu.com/mooc/4100)
- - [OS原理+实验在线视频-百度在线-2013春季](0747fe28](http://os.cs.tsinghua.edu.cn/oscourse/OS2013#head-71c446cb2a2d45dc888a928b8d0747fe28368524)
+ - [OS原理+实验在线视频-百度在线-2013春季](http://os.cs.tsinghua.edu.cn/oscourse/OS2013#head-71c446cb2a2d45dc888a928b8d0747fe28368524)
 
 ### 常见问题
  - [操作系统课程问题集](http://xuyongjiande.gitbooks.io/os-qa/)
