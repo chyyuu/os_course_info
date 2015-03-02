@@ -15,13 +15,10 @@
  - [OS原理+实验在线视频-百度在线-2013春季](http://os.cs.tsinghua.edu.cn/oscourse/OS2013#head-71c446cb2a2d45dc888a928b8d0747fe28368524)
 
 ### 常见问题
- - [操作系统课程问题集](http://xuyongjiande.gitbooks.io/os-qa/)
+ - [操作系统课程问题集 on gitbook](http://xuyongjiande.gitbooks.io/os-qa/)
 
-### 在线习题
- - [操作系统课程练习题](https://www.gitbook.io/book/xuyongjiande/os_exercises)
-
-### 作业
- - （待更新）
+### 在线习题和作业
+ - [操作系统课程练习题 on gitbook](https://www.gitbook.io/book/xuyongjiande/os_exercises)
  
 ### 教材
  - “操作系统精髓与设计原理”　第5/6/7版，电子工业出版社，机械工业出版社　2006-2012
