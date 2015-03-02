@@ -37,9 +37,9 @@
 - [上述信息的网盘备份(from 飞得更高49)](http://pan.baidu.com/s/1sjlrZSp)
 
 ## 课程交流
-- [课程维基页面](http://os.cs.tsinghua.edu.cn/oscourse/OS2015)
-- [课程问答和交流区](https://piazza.com/tsinghua.edu.cn/spring2015/30240243x/home)
-- QQ群 181873534
+- [清华大学计算机系OS课程维基页面](http://os.cs.tsinghua.edu.cn/oscourse/OS2015)
+- [OS课程技术细节的主要问答和交流区](https://piazza.com/tsinghua.edu.cn/spring2015/30240243x/home)
+- QQ群 181873534 主要用于事件通知，聊天等
 
 ## 操作系统课联系方式
 - 向勇老师 email: xyong AT tsinghua.edu.cn
