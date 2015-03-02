@@ -5,7 +5,7 @@
 ## 实验指导
  - [实验guide资料(持续更新)](http://objectkuan.gitbooks.io/ucore-docs/)
  - [实验源码和参考答案](https://github.com/chyyuu/ucore_lab)
- - [实验所需软件环境与工具](http://pan.baidu.com/s/1gdePM6J)
+ - [实验所需软件环境与工具](http://pan.baidu.com/s/11zjRK)
  - 《清华大学计算机系列教材:操作系统实验指导》　清华大学出版社　2013
 
 ## 学习信息
