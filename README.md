@@ -51,21 +51,27 @@
  - “操作系统精髓与设计原理”　第5/6/7版，电子工业出版社，机械工业出版社　2006-2012
  - 其他OS教材也可以，没有限制
  
-### 内部讲义
-从零开始构建ucore OS操作系统，了解OS如何一步一步完成，以及与OS原理的对应关系
-
+### 更深入了解OS
  - ["操作系统简单实现与基本原理 — 基于ucore"(正在撰写)](http://chyyuu.gitbooks.io/ucorebook/)
  - ["操作系统简单实现与基本原理 — 基于ucore"源码](https://github.com/chyyuu/ucorebook_code)
+ - [下一代OS--ucore plus](https://github.com/chyyuu/ucore_plus)
 
 ### 课程资料网盘备份
 - [上述信息的网盘备份(from 飞得更高49)](http://pan.baidu.com/s/1sjlrZSp)
 
 ## 课程交流
+- [学堂在线OS课](https://www.xuetangx.com/courses/TsinghuaX/30240243X/2015_T1/info)
 - [清华大学计算机系OS课程维基页面](http://os.cs.tsinghua.edu.cn/oscourse/OS2015)
 - [OS课程技术细节的主要问答和交流区](https://piazza.com/tsinghua.edu.cn/spring2015/30240243x/home)
 - QQ群 181873534 主要用于紧急事件通知，一般性OS问题，非OS问题的聊天等
 
+
 ## 操作系统课联系方式
+### 助教
+茅俊杰、何嘉权、曹睿东、武祥晋、辛云星、刘聪、常铖
+### 教学平台技术支持
+张禹、郭旭
+### 教师
 - 向勇老师 email: xyong AT tsinghua.edu.cn
 - 陈渝老师 email: yuchen AT tsinghua.edu.cn
 
