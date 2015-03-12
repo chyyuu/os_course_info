@@ -3,9 +3,10 @@
 # 清华大学操作系统课程实验（2015春季）
 
 ## 实验指导
+ - [在线实验环境--基于"实验楼"在线平台](http://www.shiyanlou.com/courses/221)
  - [实验guide资料(持续更新)](http://objectkuan.gitbooks.io/ucore-docs/)
  - [实验源码和参考答案](https://github.com/chyyuu/ucore_lab)
- - [可作为实验环境的virtualbox虚拟硬盘 2015版](http://pan.baidu.com/s/11zjRK)
+ - [可用于实验环境的虚拟硬盘 2015版](http://pan.baidu.com/s/11zjRK)
  - 《清华大学计算机系列教材:操作系统实验指导》　清华大学出版社　2013
 
 ## 学习信息
