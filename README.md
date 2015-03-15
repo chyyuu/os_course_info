@@ -4,14 +4,17 @@
 
 ## 实验指导
 
- - [实验源码和参考答案](https://github.com/chyyuu/ucore_lab)
+ - [源码与答案](https://github.com/chyyuu/ucore_lab) 
  - [实验指导书](http://objectkuan.gitbooks.io/ucore-docs/)
- - [在线实验环境](http://www.shiyanlou.com/courses/221) --基于"实验楼"在线平台
- - [实验环境虚拟硬盘](http://pan.baidu.com/s/11zjRK)  --2015版
- - [各种相关参考资料](https://github.com/objectkuan/ucore_docs/blob/master/lab0/lab0_ref_ucore-resource.md)
- - [实验在线答疑交流](https://piazza.com/tsinghua.edu.cn/spring2015/30240243x/home)
+ - [在线实验环境](http://www.shiyanlou.com/courses/221) --
+ - [实验虚拟硬盘](http://pan.baidu.com/s/11zjRK)
+ - [相关参考资料](https://github.com/objectkuan/ucore_docs/blob/master/lab0/lab0_ref_ucore-resource.md)
+ - [在线答疑交流](https://piazza.com/tsinghua.edu.cn/spring2015/30240243x/home)
 
 > 上述信息会持续更新。
+> 在线实验环境基于"实验楼"在线平台
+> 相关参考资料用于学习和了解更多实验相关的背景/软件/硬件/编程等细节
+> 一周七天每天都有助教在线答疑交流
 
 ## 学习信息
 ### 课程安排
