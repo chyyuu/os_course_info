@@ -1,9 +1,9 @@
 # README
 
-# 清华大学操作系统课程实验（2015春季）
+# 清华大学操作系统课程实验（2015秋季）
 
 ## 实验指导
-
+ - [基础测验](https://github.com/chyyuu/v8-cpu) 
  - [源码与答案](https://github.com/chyyuu/ucore_lab) 
  - [实验指导书](http://objectkuan.gitbooks.io/ucore-docs/)
  - [在线实验环境](http://www.shiyanlou.com/courses/221)
@@ -20,7 +20,7 @@
 
 ## 学习信息
 ### [课程安排](https://www.xuetangx.com/courses/TsinghuaX/30240243X/2015_T1/about) 
-2015年春季3月2日开课,12周完成
+2015年秋季开课,12周完成
 
 - 第1讲 操作系统概述 
 - 第2讲 实验环境准备（实验0）
@@ -80,9 +80,10 @@
 
 ## 操作系统课联系方式
 ### 助教
-茅俊杰、何嘉权、曹睿东、武祥晋、辛云星、刘聪、常铖
+招募新人: 请上过此MOOC课程，且对当助教有兴趣的同学给老师发电邮。我们很欢迎！ 
+已退休:茅俊杰、何嘉权、曹睿东、武祥晋、辛云星、刘聪、常铖
 ### 教学平台技术支持
-张禹、郭旭
+张禹（继续坚持）、郭旭（光荣退休）、陈土其（新手加入）
 ### 教师
 - 向勇老师 email: xyong AT tsinghua.edu.cn
 - 陈渝老师 email: yuchen AT tsinghua.edu.cn
