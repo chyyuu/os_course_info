@@ -1,6 +1,6 @@
 # README
 
-# 清华大学操作系统课程实验（2016春季）
+# 清华大学操作系统课程（2016春季）
 
 操作系统是计算机系统中负责管理各种软硬件资源的核心系统软件，为应用软件运行提供良好的环境。掌握操作系统的基本原理及其核心技术是研究型大学计算机专业本科毕业生的基本要求。
 
@@ -35,7 +35,7 @@
 
 >> 请带上笔记本电脑，用于在课堂上完成SPOC练习
 
-## ucore_lab实验
+## 课程实验　ucore os lab
  - [大一的计算机基础导论实验](https://github.com/chyyuu/v8-cpu) 
  - [源码与答案](https://github.com/chyyuu/ucore_lab) 
  - [实验指导书](http://chyyuu.gitbooks.io/ucore-docs/)
