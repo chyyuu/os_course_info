@@ -38,7 +38,7 @@
 ## 课程实验　ucore os lab
  - [os tutorial_lab](https://github.com/chyyuu/os_tutorial_lab) 
  - [源码与答案](https://github.com/chyyuu/ucore_lab) 
- - [实验指导书](http://chyyuu.gitbooks.io/ucore-docs/)
+ - [实验指导书](https://chyyuu.gitbooks.io/ucore_os_docs/content/)
  - [在线实验环境](http://www.shiyanlou.com/courses/221)
  - [实验虚拟硬盘](http://pan.baidu.com/s/11zjRK)
  - [相关参考资料](https://github.com/objectkuan/ucore_docs/blob/master/lab0/lab0_ref_ucore-resource.md)
