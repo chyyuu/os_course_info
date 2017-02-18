@@ -90,7 +90,8 @@
 ### 常见问题
  - [操作系统课程问题集 on gitbook](http://xuyongjiande.gitbooks.io/os-qa/)
 
-### 在线习题和作业
+### 习题与作业
+ - [os_course_exercises](https://github.com/chyyuu/os_course_exercises)
  - [操作系统课程练习题 on gitbook](https://www.gitbook.io/book/xuyongjiande/os_exercises)
  
 ### 更深入了解OS
