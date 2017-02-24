@@ -49,7 +49,7 @@
  - 上述信息会持续更新
  - 在线实验环境基于"实验楼"在线平台
  - 相关参考资料用于学习和了解更多实验相关的背景/软件/硬件/编程等细节
- - 周一---周五天每天有助教答疑交流
+ 
 ```
 
 ## 课程学习相关信息
@@ -89,22 +89,21 @@
  - [OS原理+实验在线视频-百度在线-2013春季](http://os.cs.tsinghua.edu.cn/oscourse/OS2013#head-71c446cb2a2d45dc888a928b8d0747fe28368524)
 
 ### 常见问题
- - [操作系统课程问题集 on gitbook](http://xuyongjiande.gitbooks.io/os-qa/)
+ - [操作系统课程问题集 on gitbook](https://chyyuu.gitbooks.io/os_course_qa/content/)
 
 ### 习题与作业
- - [os_course_exercises](https://github.com/chyyuu/os_course_exercises)
- - [操作系统课程练习题 on gitbook](https://www.gitbook.io/book/xuyongjiande/os_exercises)
+ - [操作系统课程练习题 on gitboo](https://chyyuu.gitbooks.io/os_course_exercises/content/)
  
 ### 更深入了解OS
- - ["操作系统简单实现与基本原理 — 基于ucore"(正在撰写)](http://chyyuu.gitbooks.io/ucorebook/)
+ - ["操作系统简单实现与基本原理 — 基于ucore"(正在撰写)](https://chyyuu.gitbooks.io/simple_os_book/content/)
  - ["操作系统简单实现与基本原理 — 基于ucore"源码](https://github.com/chyyuu/ucorebook_code)
- - [下一代OS--ucore plus](https://github.com/chyyuu/ucore_plus)
+ - [ucore plus](https://github.com/chyyuu/ucore_plus)
 
 ### 课程资料网盘备份
 - [上述信息的网盘备份(from 飞得更高49)](http://pan.baidu.com/s/1sjlrZSp)
 
 ## 课程交流
-- [清华大学计算机系OS课程维基页面](http://166.111.68.197:11123/oscourse/OS2016spring)
+- [清华大学计算机系OS课程维基页面](http://os.cs.tsinghua.edu.cn/oscourse/OS2017spring/)
 - [学堂在线OS课](https://www.xuetangx.com/courses/TsinghuaX/30240243X/2015_T1/info)
 - [OS课程技术细节的主要问答和交流区](https://piazza.com/tsinghua.edu.cn/spring2015/30240243x/home)
 - QQ群 181873534 主要用于紧急事件通知，一般性OS问题，非OS问题的聊天等
