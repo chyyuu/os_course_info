@@ -4,7 +4,8 @@
 
 操作系统是计算机系统中负责管理各种软硬件资源的核心系统软件，为应用软件运行提供良好的环境。掌握操作系统的基本原理及其核心技术是研究型大学计算机专业本科毕业生的基本要求。
 
-本课程是计算机专业核心课，以主流操作系统为实例，以教学操作系统ucore为实验环境，讲授操作系统的概念、基本原理和实现技术，为学生从事操作系统软件研究和开发，以及充分利用操作系统功能进行应用软件研究和开发打下扎实的基础。
+本课程是计算机专业核心课，以主流操作系统为实例，以教学操作系统ucore为实验环境，讲授操作系统的概念、基本原理和实现技术，为学生从
+事操作系统软件研究和开发，以及充分利用操作系统功能进行应用软件研究和开发打下扎实的基础。
 
 ##　本课程学习流程（for拿清华学分的同学）
 ```
@@ -92,7 +93,7 @@
  - [操作系统课程问题集 on gitbook](https://chyyuu.gitbooks.io/os_course_qa/content/)
 
 ### 习题与作业
- - [操作系统课程练习题 on gitboo](https://chyyuu.gitbooks.io/os_course_exercises/content/)
+ - [操作系统课程练习题 on gitbook](https://chyyuu.gitbooks.io/os_course_exercises/content/)
  
 ### 更深入了解OS
  - ["操作系统简单实现与基本原理 — 基于ucore"(正在撰写)](https://chyyuu.gitbooks.io/simple_os_book/content/)
