@@ -123,4 +123,28 @@
 - 向勇老师 email: xyong AT tsinghua.edu.cn
 - 陈渝老师 email: yuchen AT tsinghua.edu.cn
 
-如果有各种意见或建议，请给我们发信息。谢谢！
+### 兴趣
+如果你完成了OS课程和独立完成了ucore os lab，说明你对OS课程有兴趣或有能力挑战OS，也许你想尝试一下OS的科研，欢迎到清华实验室来实习。
+
+下面是我们正在/准备要想做的一些题目：
+
+```
+1、面向异构（CPU+GPU）架构的系统优化技术研究
+2、操作系统缺陷分析与改进
+3、操作系统动态分析/插桩（基于Ftrace,perf,eBPF等）分析
+4、操作系统子系统部分特征正确性（基于symbolic execution+SMT）分析 
+5、面向操作系统不同版本的差异性分析（基于symbolic execution）
+6、操作系统TCP/IP协议栈优化
+7、操作系统安全隔离（基于SVA）技术研究
+8、操作系统虚拟化优化（dune,kvm等）研究
+9、Linux PREEMPT_RT 分析与改进
+10、Linux kernel的LLVM支持
+11、Linux Kernel的版本自动升级技术（基于LLVM等）
+12、操作系统分层机制中的潜在缺陷和优化改进方法
+13、Android全系统分析与性能优化
+14、基于深度学习与数据挖掘的操作系统语义理解
+
+P.S. 这里的操作系统主要是指Linux kernel或Linux system
+```
+
+如果有各种意见、建议或想加入清华OS实验室实习，请给陈渝老师（yuchen AT tsinghua.edu.cn）发email。谢谢！
