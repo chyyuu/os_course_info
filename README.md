@@ -147,4 +147,4 @@
 P.S. 这里的操作系统主要是指Linux kernel或Linux system
 ```
 
-如果有各种意见、建议或想加入清华OS实验室实习，请发简历给陈渝老师（yuchen AT tsinghua.edu.cn）发email。谢谢！
+如果有各种意见、建议或想加入清华OS实验室实习，请发信息或简历给陈渝老师（yuchen AT tsinghua.edu.cn）发email。谢谢！
