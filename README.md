@@ -2,10 +2,9 @@
 
 # 清华大学操作系统课程(2018)
 
-操作系统是计算机系统中负责管理各种软硬件资源的核心系统软件，为应用软件运行提供良好的环境。掌握操作系统的基本原理及其核心技术是研究型大学计算机专业本科毕业生的基本要求。
+操作系统是计算机系统中负责管理各种软硬件资源的核心系统软件，为应用软件运行提供良好的环境。掌握操作系统的基本原理及其核心技术是研究型大学计算机专业本科毕业生的基本要求。本课程是计算机专业核心课，以主流操作系统为实例，以教学操作系统ucore为实验环境，讲授操作系统的概念、基本原理和实现技术，为学生从事操作系统软件研究和开发，以及充分利用操作系统功能进行应用软件研究和开发打下扎实的基础。
 
-本课程是计算机专业核心课，以主流操作系统为实例，以教学操作系统ucore为实验环境，讲授操作系统的概念、基本原理和实现技术，为学生从
-事操作系统软件研究和开发，以及充分利用操作系统功能进行应用软件研究和开发打下扎实的基础。
+2018年春季开课，13周完成，主要包括：操作系统结构、中断/异常与系统调用、OS启动、内存管理、进程/线程管理、调度、同步扶持、进程间通信、死锁处理、文件系统、I/O系统
 
 ## news
  - [2018年春季操作系统课通知](http://os.cs.tsinghua.edu.cn/oscourse/OS2018spring/log#A20180225-2018.2BZiVbY2TNT1x8.2B37fi.2F5fAIv.2BkBp35Q-)
@@ -28,11 +27,6 @@
 - [Operating System Concepts 操作系统概念](http://item.jd.com/10553956.html)
 - [Operating Systems:Internals and Design Principles 操作系统：精髓与设计原理](http://item.jd.com/10255221.html)
 
-## 课前视频学习
-- [课程视频](http://learn.cic.tsinghua.edu.cn/f/student/courseware/2014-2015-2-30240243-2)
-
->> 可在上课前完成本周视频学习，建议下载到本地看（Optional）
-
 ## 上课时间地点 (2018春季，1-13周，一周两次课)
  - 星期二　上午 第1节，(08:00-09:35)	操作系统 30240243 六教 6A214和6A216
  - 星期五　下午 第4节，(13:30-15:05)	操作系统 30240243 六教 6A214和6A216
@@ -45,7 +39,7 @@
  - [实验指导书](https://chyyuu.gitbooks.io/ucore_os_docs/content/)
  - [在线实验环境](http://www.shiyanlou.com/courses/221)
  - [实验虚拟硬盘](http://pan.baidu.com/s/11zjRK)
- - [相关参考资料](https://github.com/objectkuan/ucore_docs/blob/master/lab0/lab0_ref_ucore-resource.md)
+ - [相关参考资料](https://github.com/chyyuu/ucore_os_docs/blob/master/lab0/lab0_ref_ucore-resource.md)
  - [在线答疑交流](https://piazza.com/tsinghua.edu.cn/spring2015/30240243x/home)
 
 ```
@@ -55,37 +49,6 @@
  - 相关参考资料用于学习和了解更多实验相关的背景/软件/硬件/编程等细节
  
 ```
-
-## 课程学习相关信息
-- [OS课程wiki](http://os.cs.tsinghua.edu.cn/oscourse/OS2018spring)
-
-2018年春季开课,13周完成
-
-- 第1讲 操作系统概述 
-- 第2讲 实验环境准备（实验0）
-- 第3讲 中断与系统调用 
-- 第4讲 OS启动和中断处理 （实验1）
-- 第5讲 物理内存管理：连续内存分配 
-- 第6讲 物理内存管理：非连续内存分配 
-- 第7讲 物理内存管理的实现 （实验2）
-- 第8讲 虚拟存储：缺页中断 
-- 第9讲 虚拟存储：置换算法 
-- 第10讲 虚拟内存管理的实现 （实验3）
-- 第11讲 进程状态与控制 
-- 第12讲 线程管理与内核线程实现 （实验4）
-- 期中考试：第7周星期一或星期三
-- 第13讲 用户进程设计实现 （实验5）
-- 第14讲 处理机调度 
-- 第15讲 处理机调度设计与实现（实验6） 
-- 第16讲 同步互斥 
-- 第17讲 信号量和管程 
-- 第18讲 内核信号量和条件变量（实验7） 
-- 第19讲 进程间通信和死锁 
-- 第20讲 文件系统 
-- 第21讲 Simple FS的设计实现 （实验8）
-- 第22讲 I/O子系统 
-- 期末考试 期末考试: 第13周星期三（待定） 
-- 课程设计报告：第6周周四
 
 ### 以往在线视频
  - [OS原理+实验在线视频-学堂在线-2015春季](https://www.xuetangx.com/courses/TsinghuaX/30240243X/2015_T1/about)
@@ -104,7 +67,7 @@
  - [ucore plus](https://github.com/chyyuu/ucore_plus)
 
 ## 课程交流
-- [清华大学计算机系OS课程维基页面](http://os.cs.tsinghua.edu.cn/oscourse/OS2018spring/)
+- [清华大学计算机系OS课程主站](http://os.cs.tsinghua.edu.cn/oscourse/OS2018spring/)
 - [学堂在线OS课](https://www.xuetangx.com/courses/course-v1:TsinghuaX+30240243X+sp/about)
 - [OS课程技术细节的主要问答交流区](https://piazza.com/tsinghua.edu.cn/spring2015/30240243x/home)
 - 微信群（for 清华拿学分的同学） “2018春-OS原理课程”
@@ -130,10 +93,10 @@
 1、面向异构（CPU+GPU）架构的系统优化技术研究
 2、操作系统缺陷分析与改进
 3、操作系统动态分析/插桩（基于Ftrace,perf,eBPF等）分析
-4、操作系统子系统部分特征正确性（基于symbolic execution+SMT）分析 
+4、操作系统子系统全部或部分特征正确性（基于symbolic execution+SMT）分析/验证
 5、面向操作系统不同版本的差异性分析（基于symbolic execution）
 6、操作系统TCP/IP协议栈优化
-7、操作系统安全隔离（基于SVA）技术研究
+7、操作系统安全隔离（基于硬件扩展或SVA等）技术研究
 8、操作系统虚拟化优化（dune,kvm等）研究
 9、Linux PREEMPT_RT 分析与改进
 10、Linux kernel的LLVM支持
