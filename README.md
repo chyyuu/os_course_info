@@ -57,9 +57,9 @@
 ```
 
 ## 课程学习相关信息
-- [OS课程wiki](http://os.cs.tsinghua.edu.cn/oscourse/OS2017spring)
+- [OS课程wiki](http://os.cs.tsinghua.edu.cn/oscourse/OS2018spring)
 
-2017年春季开课,13周完成
+2018年春季开课,13周完成
 
 - 第1讲 操作系统概述 
 - 第2讲 实验环境准备（实验0）
@@ -89,7 +89,7 @@
 
 ### 以往在线视频
  - [OS原理+实验在线视频-学堂在线-2015春季](https://www.xuetangx.com/courses/TsinghuaX/30240243X/2015_T1/about)
- - [OS原理+部分实验在线视频-TOPU-2014秋季](http://www.topu.com/mooc/4100)
+ - [OS原理+部分实验在线视频-TOPU-2014秋季](https://www.bilibili.com/video/av6538245/?from=search&seid=10826598184252826743)
  - [OS原理+实验在线视频-百度在线-2013春季](http://os.cs.tsinghua.edu.cn/oscourse/OS2013#head-71c446cb2a2d45dc888a928b8d0747fe28368524)
 
 ### 常见问题
@@ -103,31 +103,26 @@
  - ["操作系统简单实现与基本原理 — 基于ucore"源码](https://github.com/chyyuu/ucorebook_code)
  - [ucore plus](https://github.com/chyyuu/ucore_plus)
 
-### 课程资料网盘备份
-- [上述信息的网盘备份(from 飞得更高49)](http://pan.baidu.com/s/1sjlrZSp)
-
 ## 课程交流
-- [清华大学计算机系OS课程维基页面](http://os.cs.tsinghua.edu.cn/oscourse/OS2017spring/)
-- [学堂在线OS课](https://www.xuetangx.com/courses/TsinghuaX/30240243X/2015_T1/info)
-- [OS课程技术细节的主要问答和交流区](https://piazza.com/tsinghua.edu.cn/spring2015/30240243x/home)
-- QQ群 181873534 主要用于紧急事件通知，一般性OS问题，非OS问题的聊天等
+- [清华大学计算机系OS课程维基页面](http://os.cs.tsinghua.edu.cn/oscourse/OS2018spring/)
+- [学堂在线OS课](https://www.xuetangx.com/courses/course-v1:TsinghuaX+30240243X+sp/about)
+- [OS课程技术细节的主要问答交流区](https://piazza.com/tsinghua.edu.cn/spring2015/30240243x/home)
+- 微信群（for 清华拿学分的同学） “2018春-OS原理课程”
+- QQ群 181873534 主要用于事件通知，一般性OS问题，非OS问题的聊天等
 
 
 ## 操作系统课联系方式
 
 ### 助教
-- 在岗： 甄艳洁 ... 
-- 已退休:沈游人、李曈、茅俊杰、何嘉权、曹睿东、武祥晋、辛云星、刘聪、常铖 ...
-
-### 教学平台技术支持
-吴燕妮（继续坚持）张禹（光荣退休）、郭旭（光荣退休）、陈土其（光荣退休）
+- 在岗： 甄艳洁 沈游人 朱俸民 冀伟清 张蔚
+- 已退休:李曈、茅俊杰、何嘉权、曹睿东、武祥晋、辛云星、刘聪、常铖 吴燕妮 张禹 郭旭 陈土其 ...
 
 ### 教师
 - 向勇老师 email: xyong AT tsinghua.edu.cn
 - 陈渝老师 email: yuchen AT tsinghua.edu.cn
 
 ### 兴趣
-如果你完成了OS课程和独立完成了ucore os lab，说明你对OS课程有兴趣或有能力挑战OS，也许你想尝试一下OS的科研，欢迎到清华实验室来实习。
+如果你完成了OS课程和独立完成了ucore os lab，说明你对OS课程有兴趣或有能力挑战OS，也许你想尝试一下OS相关的科研，欢迎到清华实验室来实习。
 
 下面是我们正在/准备要想做的一些题目：
 
@@ -146,8 +141,9 @@
 12、操作系统分层机制中的潜在缺陷和优化改进方法
 13、Android全系统分析与性能优化
 14、基于深度学习与数据挖掘的操作系统语义理解
+15、RISC-V CPU相关的OS研究
 
 P.S. 这里的操作系统主要是指Linux kernel或Linux system
 ```
 
-如果有各种意见、建议或想加入清华OS实验室实习，请发信息或简历给陈渝老师（yuchen AT tsinghua.edu.cn）发email。谢谢！
+如果有各种意见、建议或想到清华OS实验室实习的同学/工程师（面向全国），请发信息或简历给陈渝老师（yuchen AT tsinghua.edu.cn）发email。谢谢！
