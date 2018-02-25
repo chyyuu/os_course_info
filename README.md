@@ -24,8 +24,8 @@
 - [Operating Systems:Internals and Design Principles 操作系统：精髓与设计原理](http://item.jd.com/10255221.html)
 
 ## 上课时间地点 (2018春季，1-13周，一周两次课)
- - 星期二　上午 第1节，(08:00-09:35)	操作系统 30240243 待定
- - 星期五　下午 第4节，(13:30-15:05)	操作系统 30240243 待定
+ - 星期二　上午 第1节，(08:00-09:35)	操作系统 30240243 地点: 四教4101/4202
+ - 星期五　下午 第3节，(13:30-15:05)	操作系统 30240243 地点: 四教4101/4202
 
 ## 课程实验　ucore os lab
  - [os tutorial_lab](https://github.com/chyyuu/os_tutorial_lab) 
