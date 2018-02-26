@@ -9,7 +9,7 @@
 ## news
  - 2018.02.25：[2018年春季操作系统课通知](http://os.cs.tsinghua.edu.cn/oscourse/OS2018spring/log#A20180225-2018.2BZiVbY2TNT1x8.2B37fi.2F5fAIv.2BkBp35Q-)
  - 2018.02.26：感谢成都琛石科技有限公司的大力支持并提供实践ucore os labs的["实验楼"在线实验环境](http://www.shiyanlou.com/courses/221)
- - 2018.02.26：感谢腾讯公司的大力支持并提供腾讯云服务主机用于os lab tutorials/ucore os labs的远程实验/练习。
+ - 2018.02.26：感谢腾讯公司的大力支持并提供腾讯云服务主机用于os tutorial labs/ucore os labs的远程实验/练习。
  
 ## 本课程学习流程（for拿清华学分的同学）
 ```
