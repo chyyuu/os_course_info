@@ -7,7 +7,9 @@
 2018年春季开课，13周完成，主要包括：操作系统结构、中断/异常与系统调用、OS启动、内存管理、进程/线程管理、调度、同步扶持、进程间通信、死锁处理、文件系统、I/O系统
 
 ## news
- - [2018年春季操作系统课通知](http://os.cs.tsinghua.edu.cn/oscourse/OS2018spring/log#A20180225-2018.2BZiVbY2TNT1x8.2B37fi.2F5fAIv.2BkBp35Q-)
+ - 2018.02.25：[2018年春季操作系统课通知](http://os.cs.tsinghua.edu.cn/oscourse/OS2018spring/log#A20180225-2018.2BZiVbY2TNT1x8.2B37fi.2F5fAIv.2BkBp35Q-)
+ - 2018.02.26：感谢成都琛石科技有限公司的大力支持并提供ucore os labs的["实验楼"在线实验环境](http://www.shiyanlou.com/courses/221)
+ - 2018.02.26：感谢腾讯公司的大力支持并提供腾讯云服务主机用于ucore os labs的远程实验/练习。
  
 ## 本课程学习流程（for拿清华学分的同学）
 ```
@@ -31,7 +33,7 @@
  - [os tutorial_lab](https://github.com/chyyuu/os_tutorial_lab) 
  - [源码与答案](https://github.com/chyyuu/ucore_lab) 
  - [实验指导书](https://chyyuu.gitbooks.io/ucore_os_docs/content/)
- - [在线实验环境](http://www.shiyanlou.com/courses/221)
+ - ["实验楼"在线实验环境](http://www.shiyanlou.com/courses/221)
  - [实验虚拟硬盘](http://pan.baidu.com/s/11zjRK)
  - [相关参考资料](https://github.com/chyyuu/ucore_os_docs/blob/master/lab0/lab0_ref_ucore-resource.md)
  - [在线答疑交流](https://piazza.com/tsinghua.edu.cn/spring2015/30240243x/home)
