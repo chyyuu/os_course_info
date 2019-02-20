@@ -57,6 +57,7 @@
  - [操作系统课程练习题 on gitbook](https://chyyuu.gitbooks.io/os_course_exercises/content/)
  
 ### 更深入了解OS
+ - [os课大实验](https://github.com/oscourse-tsinghua/rcore_plus/wiki/OS-2019-%E5%A4%A7%E5%AE%9E%E9%AA%8C%E5%88%9D%E7%A8%BF)
  - [OS related papers/projects](https://github.com/chyyuu/aos_course_info/blob/master/readinglist.md)
  - [rcore_plus](https://github.com/oscourse-tsinghua/rcore_plus)
  - [ucore plus](https://github.com/chyyuu/ucore_plus)
@@ -72,8 +73,8 @@
 ## 操作系统课联系方式
 
 ### 助教
-- 在岗： 路橙、戴臻暘、王润基、贾越凯、甄艳洁、冀伟清  
-- 已退休:沈游人、朱俸民、张蔚、李曈、茅俊杰、何嘉权、曹睿东、武祥晋、辛云星、刘聪、常铖 吴燕妮 张禹 郭旭 陈土其 ...
+- 在岗： 路橙、戴臻暘、王润基、贾越凯、朱俸民、冀伟清  
+- 已退休:沈游人、甄艳洁、张蔚、李曈、茅俊杰、何嘉权、曹睿东、武祥晋、辛云星、刘聪、常铖 吴燕妮 张禹 郭旭 陈土其 ...
 
 ### 教师
 - 向勇老师 email: xyong AT tsinghua.edu.cn
