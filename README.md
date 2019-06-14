@@ -111,7 +111,7 @@
 - OS design for Mixed Critical Systems
 - OS optimization/isolation for single space memory
 - OS for user-level interrupt/driver 
-- Bridging the Semantic Gap beteween App/OS/HW
+- Bridging the Semantic Gap between App/OS/HW
 
 如果有各种意见、建议或对上列课题/项目感兴趣，想到清华OS实验室实习的同学/工程师（面向全国），欢迎发信息或简历给陈渝老师（yuchen AT tsinghua.edu.cn）发email。目前已有北大、北航、北工大、南开、电子科大、西安邮电、东北大学等学校的博士生/硕士生/本科生到OS实验室进行学术/工程类的实习。
 谢谢！
