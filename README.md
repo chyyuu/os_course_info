@@ -100,15 +100,18 @@
 - 操作系统分层机制中的潜在缺陷和优化改进方法
 - Android全系统分析与性能优化
 - 基于深度学习与数据挖掘的操作系统语义理解
-- RISC-V CPU相关的OS研究
+- RISC-V CPU相关的OS/Compiler优化研究
 - 面向多核CPU架构的操作系统&VMM&Runtime建模、优化、测试用例生成、预测
 - 面向CPU/GPU异构架构的操作系统&VMM&Runtime建模、优化、测试用例生成、预测
 - 面向TPU/NPU异构架构的操作系统&VMM&Runtime建模、优化、测试用例生成、预测
 - 基于fuzzing&symbol execution/形式化证明的OS正确性规范设计、建模、设计与实现改进
 - 基于fuzzing&symbol execution的OS bug finding技术研究
 - 实时OS性能优化技术研究
-- 自动OS updating技术研究
-- 其他与OS相关的技术研究
+- OS online updating
+- OS design for Mixed Critical Systems
+- OS optimization/isolation for single space memory
+- OS for user-level interrupt/driver 
+- Bridging the Semantic Gap beteween App/OS/HW
 
 如果有各种意见、建议或对上列课题/项目感兴趣，想到清华OS实验室实习的同学/工程师（面向全国），欢迎发信息或简历给陈渝老师（yuchen AT tsinghua.edu.cn）发email。目前已有北大、北航、北工大、南开、电子科大、西安邮电、东北大学等学校的博士生/硕士生/本科生到OS实验室进行学术/工程类的实习。
 谢谢！
