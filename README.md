@@ -29,7 +29,9 @@
  - 星期一(1-13周)　上午 第2大节，(上课 9:50-11:25) (交流 11:30-12:15)	操作系统 30240243 地点: 六教6A215/6A315
  - 星期四(1-13周)　上午 第1大节，(上课 8:00-9:35) 操作系统 30240243 地点: 六教6A215/6A315
  - 14-16周 大实验部分的交流讨论
- 
+
+## 课程课件
+- [2019春季OS课课件](https://github.com/computer-system-education/os-syllabi/tree/master/material/tsinghua-os-2019-spring)
 ## 课程实验　ucore os lab
  - [os tutorial_lab](https://github.com/chyyuu/os_tutorial_lab) 
  - [源码与答案](https://github.com/chyyuu/ucore_lab) 
