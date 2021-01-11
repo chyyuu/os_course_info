@@ -12,12 +12,12 @@
 
 
 - 教材参考：[Operating Systems: Three Easy Pieces 操作系统：三大简易元素](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-- 课程视频：[学堂在线2020春季OS课视频]https://www.xuetangx.com/course/thu08091002729/5883981?channel=search_result
-- 实验部分：[os labs 前期准备中...](https://github.com/oscomp/proj2-os-kernels-by-history)
+- 课程视频：[学堂在线2020春季OS课视频](https://www.xuetangx.com/course/thu08091002729/5883981?channel=search_result)
 - 课件内容：[2020春季OS课课件](https://github.com/dramforever/os-lectures-build/releases)
 - 课件源码：[2020春季OS课课件源码](https://github.com/LearningOS/os-lectures) 
+- 基础实验：[rcore tutorial labs 前期准备中...](https://github.com/oscomp/proj2-os-kernels-by-history)
+- 扩展实验：[zcore 前期准备中...](https://github.com/oscomp/proj9-zcore)
 
-`
 ## 上课时间地点 (2020春季，一周两次课(1-16周))
  - 待定
 
