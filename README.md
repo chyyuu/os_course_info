@@ -18,7 +18,7 @@
 - 扩展实验：[zcore 前期准备中...](https://github.com/oscomp/proj9-zcore)
 - [微信交流](https://cloud.tsinghua.edu.cn/f/53b9d6f8230f4fa5a92c/)：二维码7天有效，不准备用Rust写OS实验的同学不用加入
 
-## 上课时间地点 (2020春季，一周两次课(1-16周))
+## 上课时间地点 (2021春季，一周两次课(1-16周))
  - 待定
 
 
