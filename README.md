@@ -16,7 +16,7 @@
 - 课件源码：[2020春季OS课课件源码](https://github.com/LearningOS/os-lectures) 
 - 基础实验：[rcore tutorial labs 前期准备中...](https://github.com/oscomp/proj2-os-kernels-by-history)
 - 扩展实验：[zcore 前期准备中...](https://github.com/oscomp/proj9-zcore)
-- [微信交流](https://cloud.tsinghua.edu.cn/f/53b9d6f8230f4fa5a92c/)：不准备用Rust写OS实验的同学不用加入
+- [微信交流](https://cloud.tsinghua.edu.cn/f/53b9d6f8230f4fa5a92c/)：二维码7天有效，不准备用Rust写OS实验的同学不用加入
 
 ## 上课时间地点 (2020春季，一周两次课(1-16周))
  - 待定
