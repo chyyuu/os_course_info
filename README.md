@@ -35,7 +35,7 @@
 ## 教师
 - 向  勇 老师 email: xyong AT tsinghua.edu.cn
 - 陈  渝 老师 email: yuchen AT tsinghua.edu.cn
-- 李国良 老师 eamil: liguoliang AT tsinghua.edu.cn
+- 李国良 老师 email: liguoliang AT tsinghua.edu.cn
 
 ### 兴趣
 如果你完成了OS课程学习且独立完成了课程实验，也许你对OS课程有兴趣或想进一步尝试一下OS相关的科研，欢迎到清华OS课题组来实习。
