@@ -38,7 +38,7 @@
 - 李国良 老师 eamil: liguoliang AT tsinghua.edu.cn
 
 ### 兴趣
-如果你完成了OS课程和独立完成了ucore os lab，说明你对OS课程有兴趣或有能力挑战OS，也许你想尝试一下OS相关的科研，欢迎到清华OS课题组来实习。
+如果你完成了OS课程学习且独立完成了课程实验，也许你对OS课程有兴趣或想进一步尝试一下OS相关的科研，欢迎到清华OS课题组来实习。
 
 下面是我们正在尝试的一些研究探索：
 - https://github.com/rcore-os
