@@ -8,7 +8,7 @@
 
 
 ## 提前准备
-**不准备用Rust写OS实验的同学不用提前准备。** 对于想没有学习过Rust语言，且在寒假提前准备用Rust语言做OS实验的同学，下面是一些可供参考的信息。
+**不准备用Rust写OS实验的同学不用提前准备。** 对于没有学习过Rust语言或已经懂了Rust语言，且想学用Rust语言做OS实验的同学，如果希望在寒假提前准备，下面是一些可供参考的信息。如果有问题，可联系陈渝老师。
 
 - 教材参考：[Operating Systems: Three Easy Pieces 操作系统：三大简易元素](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - 课程视频：[学堂在线2020春季OS课视频](https://www.xuetangx.com/course/thu08091002729/5883981?channel=search_result)
