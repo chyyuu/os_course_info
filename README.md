@@ -17,6 +17,14 @@
 - 基础实验：[rcore tutorial labs 前期准备中...](https://github.com/oscomp/proj2-os-kernels-by-history)
 - 扩展实验：[zcore 前期准备中...](https://github.com/oscomp/proj9-zcore)
 
+### 非正式推荐的学习路线
+- 总体方法：迭代式主动式学习（看课程和教材；动手做实验；碰到问题可以忽略就忽略，忽略不了就想办法搞懂）
+- 学习步骤：
+   1. （如没学rust）：看https://github.com/rcore-os/rCore/wiki/os-tutorial-summer-of-code 中的初级rust自学内容，达标要求：能看到rcore tutorial kernel的rust代码，能rust基本编程。
+   1. （如没学riscv）：看https://github.com/rcore-os/rCore/wiki/os-tutorial-summer-of-code 中的riscv自学内容，达标要求：能够懂“RISC-V手册：一本开源指令集的指南”一书的第10章
+   1. 看课程视频（推荐2倍速）：必看：1/2/3/4/5/9/10/17/18 其他：完成实验后或碰到相关问题后再看
+   1. 交替看基础实验教程和做lab：看一章实验教程做一个lab，直到第七章结束。
+   
 ## 上课时间地点 (2021春季，一周两次课(1-16周))
  - 待定
 
