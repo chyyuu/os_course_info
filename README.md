@@ -48,4 +48,5 @@
 
 如果有各种意见、建议或对上列课题/项目感兴趣，想到清华OS实验室实习或工作的同学/博士后/工程师，欢迎发信息或简历给陈渝老师（yuchen AT tsinghua.edu.cn）发email。
 
-
+### 相关信息
+- [OS相关的实例/教程的参考信息](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md)
