@@ -31,7 +31,8 @@
  - 也可通过腾讯会议远程上课
 
 ## 助教
-- 待定
+- 张译仁
+- 钮泽平
 
 ## 教师
 - 向  勇 老师 email: xyong AT tsinghua.edu.cn
