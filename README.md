@@ -52,4 +52,4 @@
 
 ### 相关信息
 - [OS相关的实例/教程的参考信息](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md)
-- [学习Rust编程的参考信息](https://github.com/rcore-os/rCore/wiki/os-tutorial-summer-of-code#step-0-%E8%87%AA%E5%AD%A6rust%E7%BC%96%E7%A8%8B%E5%A4%A7%E7%BA%A67%E5%A4%A9)
+- [学习Rust编程的参考信息](https://github.com/rcore-os/rCore/wiki/study-resource-of-system-programming-in-RUST)
